@@ -1,4 +1,4 @@
-These are my implementations of the final exercises in the NViDIA Deep Learning Institutes Gpu Acceleration with the C++ Standard Library. 
+These are my implementations of the final exercises in the NVIDIA Deep Learning Institutes Gpu Acceleration with the C++ Standard Library. 
 The goal of this course is to improve fundamentals in writing parallizable code using the C++ STL algorithms. 
 In DAXPY file I rewrote the Daxpy algorithm using std::transform std::for_each_n and std::fill_n
 In the Select_Parallization I wrote a functionwhich selects some elements of an input vector v according to a general, user-provided criterion and copies the selected element consecutively into a new vector w.
